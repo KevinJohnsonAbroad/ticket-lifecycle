@@ -48,7 +48,7 @@ Fill out the following fields: email address, full name, clock on help topic and
 <img src="https://i.imgur.com/2Xu2Mtw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login to osTicket portal as admin
+Login as admin
 
 </p>
 <br />
@@ -57,7 +57,10 @@ Login to osTicket portal as admin
 <img src="https://i.imgur.com/Gj2aawB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open your helpdesk ticket by clicking on the ticket number.  From there you can set the priority, assign department, assign to a specific rep, and set the service level agreement type (SLA).
+Click on Ticket Number <br>
+Open your helpdesk ticket<br>
+Set the priority, assign department, assign to a specific rep<br>
+Set the service level agreement type (SLA).
 </p>
 <br />
 
@@ -87,7 +90,7 @@ Within the ticket tab, you can see the thread of any updates to the ticket and s
 <img src="https://i.imgur.com/MdomY0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log into osTicket as an agent
+Log as an agent
 </p>
 <br />
 
